@@ -1,4 +1,4 @@
 # gpool
-A simple goroutine pool implement
+A simple goroutine pool implementation
 
 
